@@ -51,9 +51,9 @@ body {
 
 .square {
 
-  margin: 20px;
+  margin: 10px;
   border: 1px solid black;
-  height: 1000px;
+  height: 700px;
   overflow: auto;
   background-color: #097695;
 
@@ -66,4 +66,9 @@ body {
 #menu-title h2 {
 	font-size: 2em;
 	color: #097695;
+}
+
+.square p a{
+  color: black;
+  text-decoration-color: black;
 }
